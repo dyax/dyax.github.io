@@ -1,0 +1,24 @@
+body{
+    margin:0;
+    padding:0;
+    color:#000;
+    background:#fff;
+    font:1em/1.2 helvetica,arial,sans-serif
+}
+
+h1{
+    margin:0;
+    font-size:1.5em;
+    font-weight:500
+}
+
+h2,h3{
+    margin:0 0 1em;
+    font-size:1.3em;
+    font-weight:500
+}
+
+p{
+    margin:0 0 1.5em;
+    line-height:1.5
+}
